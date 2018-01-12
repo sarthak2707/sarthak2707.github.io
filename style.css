@@ -146,7 +146,8 @@ font-weight: bold;
 	height: 100%;
 }
 .row51c2{
-	float: right;height: 100%;
+	float: right !important;
+	height: 100%;
 }
 .row6{
 	width: 100%;
